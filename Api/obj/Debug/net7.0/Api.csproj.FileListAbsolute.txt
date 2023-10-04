@@ -1,0 +1,6 @@
+C:\MainDisc\projects\personal-budget\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+C:\MainDisc\projects\personal-budget\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\MainDisc\projects\personal-budget\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+C:\MainDisc\projects\personal-budget\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+C:\MainDisc\projects\personal-budget\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+C:\MainDisc\projects\personal-budget\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
